@@ -1,7 +1,8 @@
 # PyTaskManager
 
+
 ## Introduction
-PyTaskManager is a Python class designed for efficient management of to-do lists. It provides methods to add tasks, mark them as complete, and delete them from the list.
+PyTaskManager is a Python class designed for the efficient management of to-do lists. It provides methods to add tasks, mark them as complete, and delete them from the list.
 
 
 ## Key Features
